@@ -7,6 +7,7 @@ Trabajo integrador de la materia Protección de Datos Personales de la Tecnicatu
 | Archivo | Contenido |
 |---------|-----------|
 | [entregas/Resolucion_Integradora_IA_Relaciones_Laborales.docx](entregas/Resolucion_Integradora_IA_Relaciones_Laborales.docx) | Resolución completa del trabajo práctico integrador "Inteligencia Artificial y Relaciones Laborales": las siete transformaciones del trabajo que introduce la IA, con desarrollo de las actividades 1 a 6, análisis de ventajas, riesgos y marco normativo. |
+| [entregas/Actividad_práctica_procesamiento_de_datos_2026.docx](entregas/Actividad_pr%C3%A1ctica_procesamiento_de_datos_2026.docx) | Actividad práctica sobre el procesamiento de datos (2026). |
 
 ## Temas cubiertos
 

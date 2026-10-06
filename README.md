@@ -1,6 +1,6 @@
-# Protección de Datos Personales
+﻿# Protección de Datos Personales
 
-Trabajo integrador de la materia Protección de Datos Personales de la Tecnicatura en Análisis de Datos e Inteligencia Artificial (ITSE).
+Trabajo integrador de la materia Protección de Datos Personales de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial (ITSE).
 
 ## Contenido
 
